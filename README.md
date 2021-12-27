@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Tom - welcome to my portfolio - I'm a full-stack developer, currently in the UK but looking for opportunities around the world!
+Hi, I'm Tom - welcome to my Github profile - I'm a full-stack developer, currently in the UK but looking for opportunities around the world!
 
 
 ## Here's my story....
