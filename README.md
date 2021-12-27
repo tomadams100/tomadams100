@@ -12,7 +12,7 @@ I have recently completed the Ironhack bootcamp, where I studied full-stack Java
 ## Say hi...
 
 Please feel free to reach out - I'm on LinkedIn or email are both fine - and I would love to discuss my adventures in tech with you further! 🙂💻
-🔍 Find me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomadams100/)
+🔍 Find me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-adams100/)
 
 <!--
 **tomadams100/tomadams100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
