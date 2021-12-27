@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+Hi, I'm Tom - welcome to my portfolio - I'm a full-stack developer, currently in the UK but looking for opportunities around the world!
+
+
+## Here's my story....
+
+After four years working in finance, I decided that I wanted to use my skills as a programmer to bring exciting ideas to life and to work on awe inspiring projects.
+
+I have recently completed the Ironhack bootcamp, where I studied full-stack Javascript development, specifically the MERN stack: MongoDB, Express, React, Node.
+
+## Say hi...
+
+Please feel free to reach out - I'm on LinkedIn or email are both fine - and I would love to discuss my adventures in tech with you further! 🙂💻
+
 <!--
 **tomadams100/tomadams100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
