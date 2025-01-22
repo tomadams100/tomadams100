@@ -7,7 +7,7 @@ Hi, I'm Tom - welcome to my Github profile - I'm a full-stack developer who is p
 
 After four years working in finance, I decided that I wanted to use my skills as a programmer to bring exciting ideas to life and to work on awe inspiring projects.
 
-I have completed the Ironhack bootcamp, where I studied full-stack Javascript development, specifically the MERN stack: MongoDB, Express, React, Node. After that I worked at an early stage startup called Officely, then mvoed to Hive Streaming.
+I have completed the Ironhack bootcamp, where I studied full-stack Javascript development, specifically the MERN stack: MongoDB, Express, React, Node. After that I worked at an early stage startup called Officely, then moved on to Hive Streaming.
 
 ## Say hi...
 
