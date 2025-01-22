@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Hi, I'm Tom - welcome to my Github profile - I'm a full-stack developer, currently in the UK but looking for opportunities around the world!
+Hi, I'm Tom - welcome to my Github profile - I'm a full-stack developer who is passionate about software, startups, and building cool stuff!
 
 
 ## Here's my story....
 
 After four years working in finance, I decided that I wanted to use my skills as a programmer to bring exciting ideas to life and to work on awe inspiring projects.
 
-I have recently completed the Ironhack bootcamp, where I studied full-stack Javascript development, specifically the MERN stack: MongoDB, Express, React, Node.
+I have completed the Ironhack bootcamp, where I studied full-stack Javascript development, specifically the MERN stack: MongoDB, Express, React, Node. After that I worked at an early stage startup called Officely, then mvoed to Hive Streaming.
 
 ## Say hi...
 
